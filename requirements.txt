@@ -1,0 +1,4 @@
+cohere
+slack_bolt
+python-dotenv
+
